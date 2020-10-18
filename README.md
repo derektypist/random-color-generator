@@ -10,7 +10,7 @@ a random color.
 As a user, when I click on the Mystery Color button, I expect a
 random color.
 
-Colors from rgb(0, 0, 0) to rgb(255, 255, 255)
+Colors from rgb(0, 0, 0) to rgb(255, 255, 255).
 
 ## Features
 
