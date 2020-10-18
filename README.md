@@ -7,7 +7,7 @@ The purpose of this project is to create a Random Color Generator.
 As a user, when I click on the Pick A Color button, I expect
 a random color.
 
-As a user, when I click on the Mystery Color button, I expect a
+As a user, when I wheel over the Mystery Color button, I expect a
 random color.
 
 Colors from rgb(0, 0, 0) to rgb(255, 255, 255).
