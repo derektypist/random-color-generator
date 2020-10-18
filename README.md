@@ -23,3 +23,25 @@ HTML5, CSS3, JavaScript and Google Fonts.
 ## Testing
 
 Make sure all the user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/random-color-generator)
+at the main branch.
+
+## Credits
+
+### Content
+
+HTML, CSS and JavaScript taken from the YouTube Video in Codecademy.
+Last accessed on 18 October 2020.
+
+Image provided by Codecademy.
+
+Video Link 
+
+[YouTube Video](https://www.youtube.com/watch?v=CTkWmvIYVK4)
+
+### Acknowledgements
+
+Codecademy - YouTube Video on Random Color Generator.
